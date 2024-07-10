@@ -61,5 +61,48 @@
     font-weight: 600;
     font-size: 26px;
   }
-  
+  /* main part banner style */
+  /* .middle-banner{
+    width: 1043px;
+    min-height: 1313;
+    border: 1px solid black;
+    /* margin: 1313px 1043px; */
+    /* align-items: center; */
+
+  /* } */ 
+
+  .body-banner{
+    
+    min-width: 1140px;
+    min-height: 1393px;
+    border: solid 2px black;
+    margin: 74px 148px 0px 152px;
+    background-color: #ffffff;
+  }
+
+  .body-banner h3, p{
+    text-align: center;
+    justify-content: center;
+    display:block;
+    color: #0D1321;
+    
+    
+  }
+  .body-banner h3{
+    margin-top: 80px;
+    font-weight: 800;
+    font-size: 32px;
+  }
+  .body-banner p{
+    font-weight: 400;
+    font-size: 16px;
+  }
+  /* img and rsrc style */
+  .banner-img{
+    margin-left: 200px;
+  }
+  /* .img-rsrc h4, p{
+    display: inline-block;
+  } */
+
   
